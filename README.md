@@ -1,4 +1,4 @@
-![GitHub Banner](https://via.placeholder.com/1200x400.png?text=Welcome+to+Masud+Rana's+GitHub)
+![GitHub Banner](mkmasudrana806/Blue Brown Corporate Online Business Webinar Banner.png)
 
 # Hi there, I'm Masud Rana! 👋  
 
