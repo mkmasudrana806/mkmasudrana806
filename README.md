@@ -65,3 +65,6 @@
 ###
 
 Thanks for visiting! 😊 Have a great day!
+
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=794d2b95-462e-409c-bae7-27093434daa6)](https://github.com/mkmasudrana806/github-readme-stats)
