@@ -1,9 +1,14 @@
 ![GitHub Banner](https://github.com/mkmasudrana806/mkmasudrana806/blob/main/Blue%20Brown%20Corporate%20Online%20Business%20Webinar%20Banner.jpg)
 
+###
+
 # Hi there, I'm Masud Rana! 👋
 
-🌟 Passionate Full-Stack Developer | Lifelong Learner 🌟  
-💻 Building scalable, efficient, and user-friendly applications with modern technologies.
+- 🌟 Passionate Full-Stack Developer | Lifelong Learner 🌟
+- 🔭 I’m currently working on [EasyShop](https://github.com/mkmasudrana806/MarketVibe-Ecommerce-Backenda)
+- 🌱 I’m currently learning **ML, MLOps, and GenAI with Python**
+- 👨‍💻 All of my projects are available at [Md Masud Rana](https://heroic-fairy-a6eaf8.netlify.app/)
+- 💻 Building scalable, efficient, and user-friendly applications with modern technologies
 
 ###
 
@@ -46,7 +51,8 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mkmasudrana806&"  />
 </div>
 
-###
+ 
+### 
 
 # 🌐 Connect with me
 
@@ -65,6 +71,3 @@
 ###
 
 Thanks for visiting! 😊 Have a great day!
-
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=794d2b95-462e-409c-bae7-27093434daa6)](https://github.com/mkmasudrana806/github-readme-stats)
