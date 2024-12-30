@@ -1,11 +1,12 @@
 ![GitHub Banner](https://github.com/mkmasudrana806/mkmasudrana806/blob/main/Blue%20Brown%20Corporate%20Online%20Business%20Webinar%20Banner.jpg)
 
-# Hi there, I'm Masud Rana! 👋  
+## Hi there, I'm Masud Rana! 👋  
 
 🌟 Passionate Full-Stack Developer | Lifelong Learner 🌟  
 💻 Building scalable, efficient, and user-friendly applications with modern technologies.  
 
----
+
+### 
 
 ## 🛠️ Tech Stack
 **Languages**:  
