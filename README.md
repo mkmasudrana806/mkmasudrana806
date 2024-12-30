@@ -1,4 +1,4 @@
-![GitHub Banner](mkmasudrana806/Blue Brown Corporate Online Business Webinar Banner.png)
+![GitHub Banner](https://github.com/mkmasudrana806/mkmasudrana806/blob/main/Blue%20Brown%20Corporate%20Online%20Business%20Webinar%20Banner.png)
 
 # Hi there, I'm Masud Rana! 👋  
 
