@@ -5,10 +5,9 @@
 # Hi there, I'm Masud Rana! 👋
 
 - 🌟 Passionate Full-Stack Developer | Lifelong Learner 🌟
-- 🔭 I’m currently working on [EasyShop](https://github.com/mkmasudrana806/MarketVibe-Ecommerce-Backenda)
-- 🌱 I’m currently learning **ML, MLOps, and GenAI with Python**
-- 👨‍💻 All of my projects are available at [Md Masud Rana](https://heroic-fairy-a6eaf8.netlify.app/)
-- 💻 Building scalable, efficient, and user-friendly applications with modern technologies
+- 🔭 I’m currently working on [AI Powered Job Board Platform](https://github.com/mkmasudrana806/AI-Powered-Job-Searching-Platform-Backend)
+- 🌱 I’m currently learning **AI API's Integration, BullMQ, AWS and Machine Learning**
+- 💻 Building scalable, modular, high concurrency, efficient, and user-friendly applications with modern technologies
 
 ###
 
