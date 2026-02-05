@@ -32,10 +32,8 @@ I am a Computer Science graduate focused on building **secure, scalable, and pro
 
 - **[Travel Tips & Destination Guides](https://github.com/mkmasudrana806/Travel-Tips-AndDestination-Guides-Client)**
   _Focus: Next.js App Router, custom authentication flows, rich-text travel blogging, follow, unfollow and comment system, and a comprehensive administrative management dashboard._
-
 - **[Fitness Equipment & Accessories](https://github.com/mkmasudrana806/Fitness-Equipment-and-Accessories-client)**
   _Focus: Multi-vendor e-commerce logic, Stripe payment integration, RTK Query state management, pagination, reach product filtering, and transactional database integrity._
-
 - **[Car Washing System](https://github.com/mkmasudrana806/Car-Washing-System-Client)**
   _Focus: Service booking scheduling, automated slot management, Cloudinary asset handling, pagination, and Zod-driven API validation._
 
