@@ -37,6 +37,14 @@ I am a Computer Science graduate focused on building **secure, scalable, and pro
 - **[Car Washing System](https://github.com/mkmasudrana806/Car-Washing-System-Client)**
   _Focus: Service booking scheduling, automated slot management, Cloudinary asset handling, pagination, and Zod-driven API validation._
 
+### Data Pipeline
+
+- **[End-to-End Real-Time Data Pipeline (Stream Processing)](https://github.com/mkmasudrana806/End-to-End-Real-Time-Streaming-Data-Pipeline)**
+  _Focus: Real-time event streaming with Kafka, distributed processing via Spark, and data aggregation for analytics._
+ - **[End-to-End Data Orchestration Pipeline (Batch Processing)](https://github.com/mkmasudrana806/Simple_PySpark_ETL_with_Airflow)**
+  _Focus: Data transformation pipelines, ETL automation, and batch processing optimization using the PySpark ecosystem._
+ 
+
 # 🎓 Education & Honors
 
 - **B.Sc. in Computer Science & Engineering** | Green University of Bangladesh
