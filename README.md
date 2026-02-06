@@ -50,3 +50,9 @@ I am a Computer Science graduate focused on building **secure, scalable, and pro
 - **Contact:** +8801792852446 (WhatsApp)
 
 Thanks for visiting! 😊 Have a great day!
+
+# GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mkmasudrana806&show_icons=true&hide_title=true" />
+</p>
