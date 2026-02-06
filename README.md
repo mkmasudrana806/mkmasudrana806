@@ -41,8 +41,8 @@ I am a Computer Science graduate focused on building **secure, scalable, and pro
   _Focus: ETL automation with Airflow, PySpark transformations, and batch processing optimization._
 
 # 🎓 Education & Honors
-- **B.Sc. in Computer Science & Engineering** | [cite_start]Green University of Bangladesh [cite: 37, 38]
-- [cite_start]**Academic Honors:** Recipient of the Vice-Chancellor's Award and 3x Dean's Award for academic excellence[cite: 40].
+- **B.Sc. in Computer Science & Engineering** | Green University of Bangladesh
+- **Academic Honors:** Recipient of the Vice-Chancellor's Award and 2x Dean's Award for academic excellence.
 
 # 🌐 Connect with me
 - **Portfolio:** [masudranasheikh.me](https://masudranasheikh.me)
