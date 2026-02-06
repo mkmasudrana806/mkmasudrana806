@@ -61,6 +61,4 @@ Thanks for visiting! 😊 Have a great day!
 
 # GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mkmasudrana806&show_icons=true&hide_title=true" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=mkmasudrana806)](https://git.io/streak-stats)
